@@ -28,6 +28,6 @@ This course has the following software requirements:<br/>
 Drupal, JavaScript (jQuery), HTML, and CSS
 
 ## Related Products
-* [Drupal 8 for Beginners [Video]](https://www.packtpub.com/web-development/drupal-8-beginners)
+* [Drupal 8 for Beginners [E-book]](https://www.packtpub.com/web-development/drupal-8-beginners)
 
-* [Drupal 8 Development Solutions [Video]](https://www.packtpub.com/web-development/drupal-8-development)
+* [Drupal 8 Development Solutions [E-book]](https://www.packtpub.com/web-development/drupal-8-development)
